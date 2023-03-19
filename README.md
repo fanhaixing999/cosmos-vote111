@@ -4,6 +4,8 @@ Vote multiple cosmos-based propsals in one single shot.
 
 Networks currently support:Cosmos, Osmosis, Juno, Stargaze, Akash, Secret Network, Stride and Evmos
 
+1111111
+
 Use Mnemonics/Private Key or Keplr to vote
 
 
